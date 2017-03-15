@@ -1,0 +1,13 @@
+body {
+  background-color:  grey;
+  margin: 40px;
+}
+
+.header {
+  color: white;
+  padding: 0px 0px 25px 0px;
+}
+
+.img-responsive {
+  margin: 0 auto;
+}
