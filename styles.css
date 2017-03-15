@@ -1,5 +1,5 @@
 body {
-  background-color:  grey;
+  background-color:  #a5adb0;
   margin: 40px;
 }
 
@@ -18,3 +18,16 @@ body {
     margin-left: auto;
     margin-right: auto;
  }
+
+.ndg-info ul {
+  text-align: center;
+}
+
+.ndg-info li{
+  padding: 20px 40px 0px 0px;
+  text-align: center;
+}
+
+.more-info {
+  text-align: center;
+}
